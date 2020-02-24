@@ -1,0 +1,20 @@
+{
+  "name": "toDoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majimmy88/toDoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majimmy88/toDoList/issues"
+  },
+  "homepage": "https://github.com/majimmy88/toDoList#readme"
+}
